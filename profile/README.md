@@ -1,6 +1,7 @@
 # My Portfolio Pet Projects 🐶
 
-Welcome to my portfolio of pet projects! Here you will find a collection of personal projects that I have developed in my free time to explore new technologies, improve my skills, and have some fun along the way.
+Welcome to my portfolio of pet projects!<br />
+Here you will find a collection of personal projects that I have developed in my free time to explore new technologies, improve my skills, and have some fun along the way.
 
 
 ## Table of Contents
@@ -14,6 +15,7 @@ Welcome to my portfolio of pet projects! Here you will find a collection of pers
 ## Projects 🚀
 A full description of the project and links to previews of the projects themselves can be found in the description on the links below.<br />
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
+
 - [Smooth scroll with paralax](https://github.com/Gregory-incorporated/creative-scroll)
 
 ## Contact Me 📫
