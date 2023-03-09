@@ -13,7 +13,7 @@ Welcome to my portfolio of pet projects! Here you will find a collection of pers
 
 ## Projects 🚀
 A full description of the project and links to previews of the projects themselves can be found in the description on the links below.<br />
-⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ 
+⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 - [Smooth scroll with paralax](https://github.com/Gregory-incorporated/creative-scroll)
 
 ## Contact Me 📫
