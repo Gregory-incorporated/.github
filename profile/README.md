@@ -10,7 +10,7 @@ A full description of the project and links to previews of the projects themselv
 ### 💬 Chat bots 
 - Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) )
 
-### 🎨 Paralax design web sites 
+### 🎨 Parallax design web sites 
 - [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll)
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax)
 
