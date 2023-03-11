@@ -17,9 +17,8 @@ A full description of the project and links to previews of the projects themselv
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
 - [Smooth scroll with paralax](https://github.com/Gregory-incorporated/creative-scroll)
-- EComerce telegram bot <br/>
-[Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend)<br/>
-[Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend)
+- EComerce telegram bot ([Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend))
+
 
 ## Contact Me 📫
 
