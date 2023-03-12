@@ -15,8 +15,7 @@ A full description of the project and links to previews of the projects themselv
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax)
 
 ### 🧑🏽‍💻 WEB 3.0 dapps
-- [CoinMarketCap](https://github.com/gregory-pet-projects/coin-market-cap)
-
+- [---]()
 
 
 
