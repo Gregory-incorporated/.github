@@ -7,15 +7,15 @@ Here you will find a collection of personal projects that I have developed in my
 A full description of the project and links to previews of the projects themselves can be found in the description on the links below.<br />
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
-### 💬 Chat bots 
-- Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) )
+### 🧑🏽‍💻 WEB 3.0 dapps
+- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() )
 
 ### 🎨 Parallax design web sites 
 - [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll)
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax)
 
-### 🧑🏽‍💻 WEB 3.0 dapps
-- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() )
+### 💬 Chat bots 
+- Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) )
 
 
 
