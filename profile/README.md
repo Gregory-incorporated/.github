@@ -3,7 +3,7 @@
 Welcome to my portfolio of pet projects!<br />
 Here you will find a collection of personal projects that I have developed in my free time to explore new technologies, improve my skills, and have some fun along the way.
 
-## <h1 align="center">Projects 🚀</h1>
+## Projects 🚀
 A full description of the project and links to previews of the projects themselves can be found in the description on the links below.<br />
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
