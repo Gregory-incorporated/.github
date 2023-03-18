@@ -8,7 +8,7 @@ A full description of the project and links to previews of the projects themselv
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
 ### 🧑🏽‍💻 WEB 3.0 dapps
-- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() ) [💻]()
+- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() ) [💻 preview]()
 
 ### 🎨 Parallax design web sites 
 - [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll)
