@@ -16,6 +16,8 @@ A full description of the project and links to previews of the projects themselv
 
 ### 👾 Mini games
 
+### 📱 Social platforms
+
 
 ### 💬 Chat bots 
 - Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) ) --> [[click for preview]]()
