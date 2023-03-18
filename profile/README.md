@@ -15,9 +15,11 @@ A full description of the project and links to previews of the projects themselv
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax) --> [[click for preview]]()
 
 ### 👾 Mini games
+comming soon
 
 ### 📱 Social platforms
 
+comming soon
 
 ### 💬 Chat bots 
 - Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) ) --> [[click for preview]]()
