@@ -14,6 +14,9 @@ A full description of the project and links to previews of the projects themselv
 - [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll)
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax)
 
+### 👾 Mini games
+
+
 ### 💬 Chat bots 
 - Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) )
 
