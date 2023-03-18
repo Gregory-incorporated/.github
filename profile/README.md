@@ -8,17 +8,17 @@ A full description of the project and links to previews of the projects themselv
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
 ### 🧑🏽‍💻 WEB 3.0 dapps
-- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() ) --> [💻 preview]()
+- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend]() ) --> [💻 click for preview]()
 
 ### 🎨 Parallax design web sites 
-- [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll)
-- [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax)
+- [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll) --> [💻 click for preview]()
+- [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax) --> [💻 click for preview]()
 
 ### 👾 Mini games
 
 
 ### 💬 Chat bots 
-- Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) )
+- Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) ) --> [💻 click for preview]()
 
 
 
