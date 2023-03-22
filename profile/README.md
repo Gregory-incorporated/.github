@@ -13,6 +13,8 @@ A full description of the project and links to previews of the projects themselv
 ### 🎨 Parallax design web sites 
 - [Smooth scroll](https://github.com/Gregory-incorporated/creative-scroll) --> [[click for preview]]()
 - [Fairy forest](https://github.com/gregory-pet-projects/fairy-forest-parallax) --> [[click for preview]]()
+- [Amazing parallel scroll](https://github.com/gregory-pet-projects/parallel-scroll-animation) --> [[click for preview]](https://gregory-pet-projects.github.io/parallel-scroll-animation/)
+
 
 ### 👾 Mini games
 comming soon
