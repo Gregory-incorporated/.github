@@ -5,7 +5,7 @@ Here you will find a collection of personal projects that I have developed in my
 
 ## Projects 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryPetrovLn&layout=compact)](https://github.com/GregoryPetrovLn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryPetrovLn&layout=compact&theme=transparent)](https://github.com/GregoryPetrovLn/github-readme-stats)
 
 
 A full description of the project and links to previews of the projects themselves can be found in the description on the links below.<br />
