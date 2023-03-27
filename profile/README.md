@@ -37,8 +37,8 @@ comming soon
 ## Contact Me 📫
 
 If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to my email or next links to personal chat
-- grishap96123@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/gregory-petrov/)
-- [Telegram](https://t.me/gregoryln)
+grishap96123@gmail.com [LinkedIn](https://www.linkedin.com/in/gregory-petrov/)[Telegram](https://t.me/gregoryln)
+
+ 
 
 
