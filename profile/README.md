@@ -58,7 +58,7 @@ A full description of the project and links to previews of the projects themselv
 comming soon
 
 ### 📱 Social platforms
--[Medical chat]( [Frontend](https://github.com/gregory-pet-projects/medical-chat-client) | [Backend]() )
+- [Medical chat] ( [Frontend](https://github.com/gregory-pet-projects/medical-chat-client) | [Backend]() )
 
 
 ### 💬 Chat bots 
