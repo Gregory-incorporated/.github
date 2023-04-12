@@ -54,11 +54,10 @@ A full description of the project and links to previews of the projects themselv
 comming soon
 
 ### 📱 Social platforms
-- Medical chat ( [Frontend](https://github.com/gregory-pet-projects/medical-chat-client) | [Backend](https://github.com/gregory-pet-projects/medical-chat-server) )
 
 
 ### 💬 Chat bots 
-- Telegram eComerce bot ( [Frontend](https://github.com/gregory-pet-projects/telegram-bot-shop-frontend) | [Backend](https://github.com/gregory-pet-projects/telegram-bot-shop-backend) ) --> [[click for preview]]()
+
 
 ### Mobile apps with React Native
 
