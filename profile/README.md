@@ -59,7 +59,7 @@ comming soon
 ### 💬 Chat bots 
 
 
-### Mobile apps with React Native
+### 🤖 Mobile apps with React Native
 
 
 ## Contact Me 📫
