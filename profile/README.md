@@ -42,7 +42,7 @@ A full description of the project and links to previews of the projects themselv
 
 ### 🧑🏽‍💻 WEB 3.0 dapps
 - NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend](https://github.com/gregory-pet-projects/marketplace-nft-frontend) ) --> [[click for preview]]()
-- [NFT Battle Game]() ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Frontend](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
+- [NFT Battle Game](https://gregory-nft-card-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Frontend](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
 
 ### 🎨 Design web sites 
 - [Smooth scroll](https://gregory-pet-projects.github.io/creative-scroll) ( [code](https://github.com/Gregory-incorporated/creative-scroll) )
