@@ -51,7 +51,7 @@ A full description of the project and links to previews of the projects themselv
 
 
 ### 👾 Mini games
-- [Kings and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) ) --- in progress ---
+- [Kings and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) )
 
 
 
