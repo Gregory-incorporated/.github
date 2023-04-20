@@ -44,6 +44,9 @@ A full description of the project and links to previews of the projects themselv
 - NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend](https://github.com/gregory-pet-projects/marketplace-nft-frontend) ) --- in progress ---
 - [NFT Battle Game](https://gregory-nft-card-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Frontend](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
 
+### React Native apps
+- Uber ( [code](https://github.com/gregory-pet-projects/uber-react-native) )
+
 ### 🎨 Design web sites 
 - [Smooth scroll](https://gregory-pet-projects.github.io/creative-scroll) ( [code](https://github.com/Gregory-incorporated/creative-scroll) )
 - [Fairy forest](https://gregory-pet-projects.github.io/fairy-forest-parallax) ( [code](https://github.com/gregory-pet-projects/fairy-forest-parallax) )
