@@ -44,7 +44,7 @@ A full description of the project and links to previews of the projects themselv
 - NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend](https://github.com/gregory-pet-projects/marketplace-nft-frontend) ) --- in progress ---
 - [NFT Battle Game](https://gregory-nft-card-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Frontend](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
 
-### React Native apps
+### 📱 React Native apps
 - Uber ( [code](https://github.com/gregory-pet-projects/uber-react-native) )
 
 ### 🎨 Design web sites 
