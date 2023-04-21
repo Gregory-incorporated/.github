@@ -54,7 +54,7 @@ A full description of the project and links to previews of the projects themselv
 
 
 ### 👾 Mini games
-- [Kings and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) )
+- [King and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) )
 
 ### Public Platforms
 - Dev Camper ( [API](https://github.com/gregory-pet-projects/dev-camper-api) ) --- client side on progress ---
