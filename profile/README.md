@@ -41,8 +41,9 @@ A full description of the project and links to previews of the projects themselv
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 
 ### 🧑🏽‍💻 WEB 3.0 dapps
-- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Frontend](https://github.com/gregory-pet-projects/marketplace-nft-frontend) )  --- client side on progress ---
-- [NFT Battle Game](https://gregory-nft-card-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Frontend](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
+- NFT Market place ( [Smart contract](https://github.com/gregory-pet-projects/marketplace-nft-smart-conrtact) | [Client](https://github.com/gregory-pet-projects/marketplace-nft-frontend) )  --- client side on progress ---
+- [NFT Battle Game](https://gregory-nft-card-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/nft-card-game-smart-contract) | [Client](https://github.com/gregory-pet-projects/nft-card-game-frontend) )
+- [Crypto Lottery](https://crypto-lottery-game.netlify.app) ( [Smart contract](https://github.com/gregory-pet-projects/crypto-lottery-smart-contract) | [Client](https://github.com/gregory-pet-projects/crypto-lottery) )
 
 ### 📱 React Native apps
 - Uber ( [code](https://github.com/gregory-pet-projects/uber-react-native) )
