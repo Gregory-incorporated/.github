@@ -60,6 +60,9 @@ A full description of the project and links to previews of the projects themselv
 ### Public Platforms
 - Dev Camper ( [API](https://github.com/gregory-pet-projects/dev-camper-api) ) --- client side on progress ---
 
+### Others
+- Infinity scroll implementation ( [code](https://github.com/gregory-pet-projects/infinity-scroll) )
+
 
 ## Contact Me 📫
 
