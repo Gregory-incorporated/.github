@@ -53,12 +53,15 @@ A full description of the project and links to previews of the projects themselv
 - [Fairy forest](https://gregory-pet-projects.github.io/fairy-forest-parallax) ( [code](https://github.com/gregory-pet-projects/fairy-forest-parallax) )
 - [Amazing parallel scroll](https://gregory-pet-projects.github.io/parallel-scroll-animation) ( [code](https://github.com/gregory-pet-projects/parallel-scroll-animation) )
 
+## AI apps
+- AI iamge generator ( [code](https://github.com/gregory-pet-projects/ai-image-generator) )  --- on progress ---
 
 ### 👾 Mini games
 - [King and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) )
 
 ### 🧑‍🏫 Public Platforms
 - Dev Camper ( [API](https://github.com/gregory-pet-projects/dev-camper-api) ) --- client side on progress ---
+
 
 ### 🧙 Others
 - Infinity scroll implementation ( [code](https://github.com/gregory-pet-projects/infinity-scroll) )
