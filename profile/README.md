@@ -53,7 +53,7 @@ A full description of the project and links to previews of the projects themselv
 - [Fairy forest](https://gregory-pet-projects.github.io/fairy-forest-parallax) ( [code](https://github.com/gregory-pet-projects/fairy-forest-parallax) )
 - [Amazing parallel scroll](https://gregory-pet-projects.github.io/parallel-scroll-animation) ( [code](https://github.com/gregory-pet-projects/parallel-scroll-animation) )
 
-## AI apps
+### 👽 AI apps
 - AI iamge generator ( [code](https://github.com/gregory-pet-projects/ai-image-generator) )  --- on progress ---
 
 ### 👾 Mini games
