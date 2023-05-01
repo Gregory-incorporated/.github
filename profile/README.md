@@ -56,7 +56,7 @@ A full description of the project and links to previews of the projects themselv
 
 ### 👽 AI apps
 - AI image generator ( [code](https://github.com/gregory-pet-projects/ai-image-generator) )  --- on progress ---
-- AI Face Detection ( [code](https://github.com/gregory-pet-projects/ai-face-detection) )
+- Face Detection ( [code](https://github.com/gregory-pet-projects/ai-face-detection) )
 
 ### 👾 Mini games
 - [King and Pigs](https://gregory-pet-projects.github.io/kings-and-pigs/) ( [code](https://github.com/gregory-pet-projects/kings-and-pigs) )
