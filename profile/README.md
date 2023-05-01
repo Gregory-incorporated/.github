@@ -63,6 +63,8 @@ A full description of the project and links to previews of the projects themselv
 ### 🧑‍🏫 Public Platforms
 - Dev Camper ( [API](https://github.com/gregory-pet-projects/dev-camper-api) ) --- client side on progress ---
 
+### Three JS
+- Bokoko room ( [code](https://github.com/gregory-pet-projects/three-experience-web) )  --- on progress ---
 
 ### 🧙 Others
 - Infinity scroll implementation ( [code](https://github.com/gregory-pet-projects/infinity-scroll) )
