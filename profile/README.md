@@ -63,6 +63,7 @@ A full description of the project and links to previews of the projects themselv
 
 ### 🧑‍🏫 Public Platforms
 - Dev Camper ( [API](https://github.com/gregory-pet-projects/dev-camper-api) ) --- client side on progress ---
+- Reddit clone ( [code](https://github.com/gregory-pet-projects/reddit) )
 
 ### 🌳 Three JS
 - Bokoko room ( [code](https://github.com/gregory-pet-projects/three-experience-web) )  --- on progress ---
