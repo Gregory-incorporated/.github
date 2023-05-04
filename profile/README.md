@@ -54,6 +54,7 @@ A full description of the project and links to previews of the projects themselv
 
 ### 📱 React Native apps
 - Uber ( [code](https://github.com/gregory-pet-projects/uber-react-native) )
+- Tinder ( [code](https://github.com/gregory-pet-projects/tinder) )
 
 ### 🎨 Design web sites 
 - [Smooth scroll](https://gregory-pet-projects.github.io/creative-scroll) ( [code](https://github.com/Gregory-incorporated/creative-scroll) )
